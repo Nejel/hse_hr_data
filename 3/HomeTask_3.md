@@ -9,8 +9,7 @@
 
 ## Базы данных
 
-2. Установить сервер БД для Postgre по инструкции:
-* Инструкция по установке здесь: https://www.postgresqltutorial.com/install-postgresql/
-* Скачать инсталлятор можно тут: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+2. Установить браузер БД для SQLite:
+* Скачать инсталлятор можно тут: https://sqlitebrowser.org/dl/
 
 ## Конец
